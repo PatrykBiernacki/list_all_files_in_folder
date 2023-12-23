@@ -34,5 +34,5 @@ if __name__ == '__main__':
     list_files = ListFiles()
     directory = r''
     if not directory:
-        directory = input('type directory to list all files in directory and subdirectories.')
+        directory = input('type directory to list all files in directory and subdirectories. Input: ')
     print(list_files.list_in_folder(directory))
