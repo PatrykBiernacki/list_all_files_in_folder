@@ -1,0 +1,1 @@
+Script lists all files in a filder and its subfolders. 
